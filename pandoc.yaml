@@ -1,0 +1,7 @@
+metadata:
+  title: "Dokumen Proyek"
+  author: "Rizal Fadlullah"
+  date: "2024-12-04"
+pdf-engine: xelatex
+bibliography: src/backmatter/references.bib
+csl: apa.csl
